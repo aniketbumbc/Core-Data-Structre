@@ -1,1 +1,1 @@
-this covers linklist, stack,queue,graphs
+this covers linklist, stack,queue,graphs and search,disksh
